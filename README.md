@@ -1,10 +1,10 @@
 # E-Commerce
 
-
+E-commerce, plays a significant role within the business world, as it empowers businesses and consumers alike to conveniently engage in online buying and selling of all types of products and services.
 
 # Description
 
-
+This is a back-end server and data used to work with and e-commerce internet website. 
 
 # Installation
 
@@ -25,7 +25,6 @@ npm
 sequelize
 
 # Usage
-
 
 
 
